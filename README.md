@@ -169,13 +169,15 @@ plt.show()
 
 
 ### iii)Image shearing
+![image](https://github.com/user-attachments/assets/ce12658a-eba5-4791-99ca-33a83ea85a1b)
+![image](https://github.com/user-attachments/assets/57612389-8254-44f8-bb9b-17c67f00283a)
 
-![image](https://github.com/user-attachments/assets/dc7b7914-c875-42d5-9001-ae6a83710bb2)
 
 
 ### iv)Image Reflection
 
-![image](https://github.com/user-attachments/assets/7d54b3c8-e4bf-47b6-8f46-507c23b239a3)
+![image](https://github.com/user-attachments/assets/5118678a-07c2-4ee4-9dbf-d2e273dafdaf)
+![image](https://github.com/user-attachments/assets/4be49a9b-3899-4bb3-b184-60202a611369)
 
 
 ### v)Image Rotation
