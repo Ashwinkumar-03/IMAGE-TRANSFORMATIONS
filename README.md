@@ -34,7 +34,7 @@ Rotate the image using angle function.
 ## Program:
 ```
 Developed By: ASHWIN KUMAR S
-Register Number: 212222230103
+Register Number: 212222240013
 ```
 
 ## i)Image Translation
