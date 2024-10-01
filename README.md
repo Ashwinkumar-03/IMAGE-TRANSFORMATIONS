@@ -33,7 +33,7 @@ Rotate the image using angle function.
 
 ## Program:
 ```
-Developed By: 
+Developed By: ASHWIN KUMAR S
 Register Number: 212222230103
 ```
 
