@@ -1,6 +1,7 @@
+# Exp-4
 # IMAGE-TRANSFORMATIONS
 
-## Aim
+## Aim :
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
 ## Software Required:
@@ -32,10 +33,10 @@ Find the reflection of the image.
 Rotate the image using angle function.
 
 ## Program:
-```
-Developed By: ASHWIN KUMAR S
-Register Number: 212222240013
-```
+
+## Developed By: ASHWIN KUMAR S
+## Register Number: 212222240013
+
 
 ## i)Image Translation
 
