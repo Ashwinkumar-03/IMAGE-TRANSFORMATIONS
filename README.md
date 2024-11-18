@@ -167,7 +167,7 @@ plt.show()
 ### ii) Image Scaling
 
 ![image](https://github.com/user-attachments/assets/a770fbb4-a69a-4831-ac05-912fa2a4a65f)
-![image](https://github.com/user-attachments/assets/d8fd715a-2d62-4522-a2a7-13026bd0f670)
+![image](https://github.com/user-attachments/assets/163de1fe-38b8-4f51-8740-950194142d96)
 
 
 ### iii)Image shearing
